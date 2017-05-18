@@ -1,4 +1,5 @@
 Number Formatter
+[![Build Status](https://travis-ci.org/domwlkr/number-formatter.svg?branch=master)](https://travis-ci.org/domwlkr/number-formatter)
 =========
 
 A small library that adds commas to numbers
