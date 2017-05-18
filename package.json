@@ -1,10 +1,10 @@
 {
-  "name": "number-formatter",
+  "name": "@domwlkr/number-formatter",
   "version": "0.0.1",
   "description": "Number formatter (NPM package test really... shh)",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --reporter spec"
+    "test": "mocha --reporter nyan"
   },
   "engines": {
     "node": ">=7.6.0"
