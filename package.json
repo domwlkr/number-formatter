@@ -6,6 +6,9 @@
   "scripts": {
     "test": "mocha --reporter spec"
   },
+  "engines": {
+    "node": ">=7.6.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/domwlkr/number-formatter.git"
