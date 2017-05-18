@@ -1,0 +1,19 @@
+{
+  "name": "number-formatter",
+  "version": "0.0.1",
+  "description": "Number formatter (NPM package test really... shh)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domwlkr/number-formatter.git"
+  },
+  "author": "Dom Walker <dom.walker1987@gmail.com> (http://www.domwalker.co.uk)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/domwlkr/number-formatter/issues"
+  },
+  "homepage": "https://github.com/domwlkr/number-formatter#readme"
+}
